@@ -10,9 +10,5 @@ diabetes-readmission-venv/
 # VS Code
 .vscode/
 
-# Data files
-data/raw/
-*.csv
-
 # OS files
 .DS_Store
